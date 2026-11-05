@@ -1,0 +1,15 @@
+{
+  "repository": "module-genealogy-dna-flutter",
+  "capabilityKey": "liberusoftware/module-genealogy-dna",
+  "presentation": "mobile-flutter",
+  "package": "module_genealogy_dna_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/genealogy/nextjs/dna.md",
+  "presentationPlan": "projects/genealogy/flutter/dna.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "genealogy"
+  ]
+}
